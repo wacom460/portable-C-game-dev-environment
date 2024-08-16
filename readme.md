@@ -1,3 +1,3 @@
-Compiler: TCC
-Game library: Raylib
-UI library: Nuklear
+# Compiler: TCC
+# Game library: Raylib
+# UI library: Nuklear
